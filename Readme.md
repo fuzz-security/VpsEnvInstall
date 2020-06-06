@@ -6,7 +6,7 @@
 # shutdown -r now
 ```
 
-### 0x02 执行脚本 [ 用source执行 ]
+### 0x02 执行脚本 [ source执行 ]
 ```
 # source ./VPS_Env_install.sh
 ```
