@@ -1,4 +1,4 @@
-### 0x01 VPS 初始化操作 ( Tested On Ubuntu 16.04 LTS 64bit )
+### 0x01 VPS 初始化操作 [ Tested On Ubuntu 16.04 LTS 64bit ]
 ```
 # passwd
 # echo "Korc" > /etc/hostname
